@@ -18,8 +18,8 @@ const data: ISiteMetadataResult = {
   keywords: 'workouts, running, cycling, riding, roadtrip, hiking, swimming',
   navLinks: [
     {
-      name: 'Blog',
-      url: 'https://doodle1129.github.io/workouts_page/',
+      name: 'Running Page',
+      url: 'https://doodle1129.github.io/running_page/',
     },
     {
       name: 'About',
